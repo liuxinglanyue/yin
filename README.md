@@ -6,7 +6,9 @@ For now let's use this Google Group:
 
 <https://groups.google.com/forum/#!forum/yin-lang>
 
+最新代码：
 
+<https://github.com/0x55aa/yin>
 
 #### License (GNU AGPLv3)
 
